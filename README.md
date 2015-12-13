@@ -1,5 +1,8 @@
 # Inertial Drift
 
+**Check the [releases](https://github.com/fallingduck/inertial-drift/releases)
+for a Windows binary!**
+
 This is a small game I developed in Python a few years ago. Although the
 original objective was to familiarize myself with PyGame, by the end, I realized
 that the game was actually halfway decent&mdash;and made in 48 hours (with an
